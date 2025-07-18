@@ -1,10 +1,9 @@
-#include <stdbool.h>
 #include <stdio.h>
 
 int main(void) {
     int digit_seen[10] = {0};
     int digit;
-    unsigned long n;
+    long n;
 
     printf("Enter a number (Must be 9 digits long): ");
     scanf("%ld", &n);
