@@ -6,7 +6,7 @@ int main(void) {
     bool digit_repeated[10] = {false};
     bool repeated;
     int digit;
-    unsigned long n;
+    long n;
 
     printf("Enter a number (Must be 9 digits long): ");
     scanf("%ld", &n);
