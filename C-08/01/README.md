@@ -1,3 +1,4 @@
+### Chapter 08 | Project 01
 Modify the `repdigit.c` program of Section 8.1 so that it shows which digits (if any)
 were repeated:
 ```

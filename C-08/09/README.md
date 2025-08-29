@@ -1,3 +1,4 @@
+### Chapter 08 | Project 09
 Write a program that generates a “random walk” across a 10 × 10 array. The array will contain 
 characters (all `'.'` initially). The program must randomly “walk” from element to element, 
 always going up, down, left, or right by one element. The elements visited by the

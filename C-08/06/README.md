@@ -1,3 +1,4 @@
+### Chapter 08 | Project 06
 The prototypical Internet newbie is a fellow named B1FF, who has a unique way of writing
 messages. Here’s a typical B1FF communiqué:
 `H3Y DUD3, C 15 R1LLY C00L!!!!!!!!!!`

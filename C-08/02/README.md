@@ -1,3 +1,4 @@
+### Chapter 08 | Project 02
 Modify the `repdigit.c` program of Section 8.1 so that it prints a table showing how
 many times each digit appears in the number:
 ```
