@@ -1,4 +1,9 @@
-Modify Programming Project 8 from Chapter 5 so that the departure times are stored in an
-array and the arrival times are stored in a second array. (The times are integers, representing
-the number of minutes since midnight.) The program will use a loop to search the array of
-departure times for the one closest to the time entered by the user.
+### Chapter 08 | Project 11
+Modify Programming Project 4 from Chapter 7 so that the program labels its output:
+```
+Enter phone number: 1-800-COL-LECT
+In numeric form: 1-800-265-5328
+```
+The program will need to store the phone number (either in its original form or in its
+numeric form) in an array of characters until it can be printed. You may assume that the
+phone number is no more than 15 characters long.
